@@ -1,5 +1,6 @@
 <?php
-echo '<h1>Sudurpaschim Nepal!</h1>';
-echo '<h1>HI,I am Utshav Dahal from Biratnagar Nepal!</h1>';
-echo'<img src="mnr.jpg"width="700">';
+echo '<h1>Koshi pradesh, Nepal!</h1>';
+echo '<h1>Hi,I am Utshav Dahal from Biratnagar Nepal!</h1>';
+echo'<img src="profile.png"width="700">';
+
 ?>
